@@ -1,0 +1,14 @@
+Name of the student : Abatansha Dasgupta
+Class Roll of the student : 02
+Stream of the student : CSE
+Your Student ID is : CSE2098
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 76 
+Marks obtained in Physics is : null
+Marks obtained in Chemistry is : 77 
+Marks obtained in Biology is : null 
+Marks obtained in English is : 50 
+
+You have got 292 in total with 58%
+Good Performance... You have passed the exam with grade C.
